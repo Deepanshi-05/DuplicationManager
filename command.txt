@@ -1,0 +1,13 @@
+for you -
+
+first command to run 
+-- make sure you are un ibm2 folder 
+
+before you run make sure you delete out -- content 
+
+javac -encoding UTF-8 -cp "lib/json-20210307.jar" -d out src/*.java
+
+
+2nd command
+
+java -cp "lib/json-20210307.jar;out" AppManagerGUI

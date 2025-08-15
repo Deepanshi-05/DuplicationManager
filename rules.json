@@ -1,0 +1,72 @@
+{
+    "Office": [
+        "word",
+        "excel",
+        "powerpoint",
+        "pdf",
+        "doc",
+        "ppt",
+        "spreadsheet",
+        "office"
+    ],
+    "Design": [
+        "photoshop",
+        "illustrator",
+        "editor",
+        "design",
+        "ui",
+        "ux"
+    ],
+    "Utilities": [
+        "setup",
+        "installer",
+        "tool",
+        "utility",
+        "config",
+        "driver"
+    ],
+    "Games": [
+        "game",
+        "launcher",
+        "steam",
+        "epic",
+        "gog",
+        "gta",
+        "pubg",
+        "valorant"
+    ],
+    "Media": [
+        "music",
+        "video",
+        "player",
+        "vlc",
+        "media",
+        "mp3",
+        "mp4",
+        "mkv"
+    ],
+    "Development": [
+        "editor",
+        "ide",
+        "eclipse",
+        "vscode",
+        "pycharm",
+        "java",
+        "python",
+        "sdk"
+    ],
+    "Browsers": [
+        "chrome",
+        "firefox",
+        "browser",
+        "edge",
+        "opera"
+    ],
+    "Security": [
+        "antivirus",
+        "firewall",
+        "malware",
+        "scanner",
+        "security"
+    ]
+}
